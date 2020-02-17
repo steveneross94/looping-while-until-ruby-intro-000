@@ -3,6 +3,6 @@ def using_while
 	counter = 0
   counter += 1
   while counter >=10
-    puts "Wingardium Leviosa"
+    puts "Wingardium Leviosa #{counter}"
   end
 end
